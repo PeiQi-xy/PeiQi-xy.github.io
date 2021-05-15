@@ -1950,7 +1950,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ebffff;
+  background: #5be8ac;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3249,7 +3249,7 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("/images/bg.jpg");
+  background: url("https://source.unsplash.com/1800x1000/?Fashion,Film,StreetPhotography,Food&Drink");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -3260,7 +3260,7 @@ body {
   opacity: 1;
 }
 .site-meta {
-  background: #174691;
+  background: #542f29;
 }
 .sidebar {
   transition-duration: 0.4s;
